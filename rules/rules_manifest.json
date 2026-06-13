@@ -1,1 +1,8 @@
-
+{
+    "kind":  "rules",
+    "version":  "1.0.0",
+    "createdUtc":  "2026-06-13T11:39:55Z",
+    "url":  "https://github.com/rajatkaushik1/healixpro-updates/releases/download/v1.0.0/rules.zip",
+    "sha256":  null,
+    "signatureBase64":  "U6b7tuReBKsNtZzMvNLrhMov/587KSVcBCA6X0bnvHh4ILk9+w8JOKiFxu7caOx6uONUJAIxt8svfn3XRfk9ra2feXTi5ugbC9v6QqkyystERMoSyw4eFORLGa8MjSsLPPnrarILWIiEGMEobDbpU7xyQtwG0n+xVLlJSvB295z3DbxdghcbXOEtOHW2AQopvzvwOO1MyXFobLX7gMCnInxHL7jjRnWyTNHVJkQ4HxUd+uZH4DnDdkhayjj+wfx4V/BPKlA3XcL3PRBwOhScafP2b5JTVDU+9tHqT30RIlgB9QCKLS3AGk3t57lhilKN9Lcd4bR2mAAcxyDea1JhGjkzr5TmURVDcr0RJvQ5Jp8YDwlbQx9ZUKB8ZeI4oVQewDnBcT0vHvtrXBFrYXTGz5OOHXHIJiN9neFOkZwj8wv7eHZKvgNLrXs8/XaQ3VkPh6Q4XxZ/TuR6vGxNuMLM+sZMKedlNR7SOHhB3SxBuUJ6ldeppzXnGQGHbHn9dkNDm5FG1ltDqFHKBD/6SrncZDAe7wqaWO9z34x+XjpxPQFtUDL6Ex3DE0K8FvM1HViMPB4JPCWTHuGfTuhkA+dXb+r0QrXxDt2ii/iwhxSJQOhW1sIZkPm61Fk3yJAqaHqpC49/Uc1LTU6sZgjbOn+7DW5qEp1tdQEHNVbbdAZIYqE="
+}
