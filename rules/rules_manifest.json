@@ -1,8 +1,8 @@
 {
     "kind":  "rules",
-    "version":  "1.0.0",
-    "createdUtc":  "2026-06-13T12:10:16Z",
-    "url":  "https://github.com/rajatkaushik1/healixpro-updates/releases/download/v1.0.0/rules.zip",
+    "version":  "1.0.0-mismatch-test",
+    "createdUtc":  "2026-06-13T12:29:58Z",
+    "url":  "https://github.com/rajatkaushik1/healixpro-updates/releases/download/v1.0.0-mismatch-test/rules.zip",
     "sha256":  "07c777ba155895b7fdfc10c178fc3dbd9be23f17b41c4ee5ec5c46a1ba53003a",
-    "signatureBase64":  "tRNMEWOoGULDkdQ6wneNUmrOty00BYdbGEtTDEPxBt+mGZjlmIcPN6o4kI8Wj0PS1sJTRBbug2vI4avoSxFJimUzuOxsS8Stb9oz6CPKlYrJSYGi1QGEz0LXkepKcqfcw60BMIOJpfiTiTfbA9P0q+qgU3M6sHEGzSMQLthhJXwLJ0J+jNyDlcMjl7LI+7pSbmn0e/k+TFI4m+KmPwS/F8+Y32jH8Tf33RiiSS8AX21nNNJpWtZmMWVy7gQBiyXnzWc1pe5BKJF46nqnp55Bm5SePXnzOtOLPyPbrLfmf26w7Rvol4KRAGn2tt13McLcg0JXiM3Sbgn97I9pAN+2SL7lyxmSoAdRsJIoiGLJ4a7D1qU9ltW4V9QmbVFeIadtpVmbqRJLzzpRvmF+i6a3kSMdeWVZgplHGxiarfX1TeMOp4t2oCo4TMLD7Algpt4nJrQYjxGyMyfjySXKh5+INf5QfvLni3rHHmDL31YwAATe9+BifySu4CvcGhUsbo75FETqLUeQ+VjKMH5dLNdtkspth8Xz+7ZdxB+/pHAML9Pwa9fYzAN5DzhiFmA779GSszbLrEb6sd6nnItXFljuaxrMTkUIwP810g4wscf/kj6OtCR7FyyAAgduzBkZ7LEkNYfvdU2u0icsSMNJGXBviMSfkfBR2b+DoSZZiNIIsXs="
+    "signatureBase64":  "ZMIxx/nfDh3Y8tT3LypxBo0hPen74Qe+ENwgfthZi4MhBidrp3wjIJkxXZFZDxrqWYUgdc6YNSSBPpFsmfcFMqVO5AFCZmfXFKPCZxL2PlECwSSJxuzcIaKHbjoLOTayxzr294mK4v7KJV3deK8KCKxYyasuGkFes207rJcEirWFlQaRjskw003AuOjdtmM4Qqke1SdHdCmFGafZLUzdvxhxdreyNgH3YBhfe5ectUGOp6n78rkymsBiVb2yyJoyFLPnuYyqVS5Ay1wMdmuW0ZoAXZS/SRoIuV8GSoZhPEo2aHZ1NGRcpfP2IgxqWD3vvEE5+bZuP+DhL935D35rDlcqOcgiZ59b7zjnv3Bk6mAPkCD8GKKeqq7IYuF9WgGt+4ZDhb6DBvROTXNZjRJK+nnpIVtUOfB76PL6LdFbScX+OS7o4zYv9Znm86DNc5MEKxsR5x26bpc0HPUk/UuP2I28JyYq4WgdQH847+LtTOg+uVFEh4hT8NPYlqOk9WquJN8J8tDnA98K7YHvVOoZIJqTDMp3QXO7tGHVpxRaACauGYx9Nf0MGZniXAlQYHM4qFioahJ+a+vGO5BD6KS9Y9kj7m+yGeS+ViiMVCZ9QC10cb9U1ZxEKkvqBX5dxIIkP8zoX4vU0PsllupGilJHMjmSQVRBFvbI2Gz+Ferem4E="
 }
